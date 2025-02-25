@@ -105,11 +105,9 @@ The application is organized into four main classes, each with a distinct respon
 
 
 ## Screenshots
-![Screenshot 2025-02-25 153146- 2-25a](https://github.com/user-attachments/assets/705b2c68-1cbd-4b61-9667-4109e75ae593)
-
-![Screenshot 2025-02-25 153146- 2-25b](https://github.com/user-attachments/assets/006e6aa4-8064-4376-8d4d-0871d0060f67)
-
-![image](https://github.com/user-attachments/assets/f3f030a3-68fd-4000-8389-919a23dc53c9)
+![Screenshot 2025-02-25 153146- 2-25a](https://github.com/user-attachments/assets/5ac8ca0e-e7e4-4a72-b028-71cbf2e0be8e)
+![Screenshot 2025-02-25 153146- 2-25b](https://github.com/user-attachments/assets/8c3c283e-8115-45fe-b816-328c2770626c)
+![Screenshot 2025-02-25 153146- 2-25c](https://github.com/user-attachments/assets/b9fb9b8c-9199-41b8-a5dd-cc85eab1aee6)
 
 ## Future Enhancements
 
